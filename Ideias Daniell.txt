@@ -1,0 +1,38 @@
+webstorage
+pastes
+suckie pode criar nuvens
+sistema checkpoint
+sistema de allies
+allies: pendrive-electric, voador-de-segundos
+exibir capacidade-criaçao de nuvens
+poder se alimentar de nuvens
+
+narra: cavando, new-achievement, {achievement:easteregg-area}, {achievement:double-kill}, {achievement:triple-kill}, {achievement:?-kill}, {achievement:penta-kill}, {achievement:all-lifes}, {achievement:all-}, game-over, you-lose, new-item, do-chao-nao-pass, checkpoint, sucked-all-clouds, tedio-valioso, direto-no-item, suckie
+
+mini games: cair-direto-no-item, subir-rapido, jumper
+array de itens
+carinha feliz
+walking animation
+Caiu na terra -1 vida
+itens do tipo "direto no item" terao posiçao aleatoria
+bixinhos que falam
+reaçoes de tedio: cantando(lepo, suckie-suckie), cavando, soltando livro paciencia, dormindo, comendo, 
+Sistem de perder fase
+Sistem game over
+fases bonus
+obter animais e animais sob risco extinçao
+botao e funçao sugar
+sugar e lançar rocks
+can conquest maps (playing perfectly) for prevent game-over
+level maps
+Primeira fase nas nuvens, e o topo da nuvem tem o checkpoint
+criar primeira fase
+creds do jogo
+vid
+tela inicial do jogo
+tela desenvolvedoras
+voz do player
+enemies
+voz dos enemies
+Segundo jogo sera flashback no espaço
+achievements
